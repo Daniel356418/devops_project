@@ -1,4 +1,4 @@
-__pycache__/
+echo "__pycache__/
 *.pyc
 .env
 .terraform/
@@ -6,4 +6,4 @@ __pycache__/
 *.tfstate.backup
 .venv/
 venv/
-.DS_Store
+.DS_Store" > .gitignore
